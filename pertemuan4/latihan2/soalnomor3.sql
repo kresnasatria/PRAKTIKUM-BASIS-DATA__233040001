@@ -1,0 +1,1 @@
+SELECT nama_mahasiswa
